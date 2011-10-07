@@ -1,1 +1,1 @@
-Source code for http://blog.shinetech.com/2011/08/01/cascading-select-boxes-with-backbone-js/
+Fork of https://github.com/shinetech/CascadingSelectsWithBackboneJS that uses CoffeeScript instead of JavaScript 
